@@ -1,2 +1,2 @@
 # Programaci-n-para-objetos-
-Goooo
+Lest Goo
